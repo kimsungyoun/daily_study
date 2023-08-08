@@ -8,3 +8,9 @@
 > **업로드 항목**
 - 소스코드파일
 - 메모
+
+
+<br>
+
+> **메모**
+- https://www.notion.so/SMHRD_-f08de0bd7d1b463880a0091b230afa9f?pvs=4
